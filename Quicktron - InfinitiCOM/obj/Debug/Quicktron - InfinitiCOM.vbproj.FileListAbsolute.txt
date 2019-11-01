@@ -1,0 +1,25 @@
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\bin\Debug\Quicktron - InfinitiCOM.exe.config
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\bin\Debug\Quicktron - InfinitiCOM.exe
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\bin\Debug\Quicktron - InfinitiCOM.pdb
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\bin\Debug\Quicktron - InfinitiCOM.xml
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.vbprojAssemblyReference.cache
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron___InfinitiCOM.Form1.resources
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron___InfinitiCOM.Resources.resources
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.vbproj.GenerateResource.cache
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.vbproj.CoreCompileInputs.cache
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.exe
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.xml
+D:\INFINITI\DEV\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.pdb
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\bin\Debug\InfinitiCom-Quicktron.accdb
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\bin\Debug\Quicktron - InfinitiCOM.exe.config
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\bin\Debug\Quicktron - InfinitiCOM.exe
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\bin\Debug\Quicktron - InfinitiCOM.pdb
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\bin\Debug\Quicktron - InfinitiCOM.xml
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.vbprojAssemblyReference.cache
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron___InfinitiCOM.Form1.resources
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron___InfinitiCOM.Resources.resources
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.vbproj.GenerateResource.cache
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.vbproj.CoreCompileInputs.cache
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.exe
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.xml
+D:\INFINITI\DEV\VB NET\Quicktron - InfinitiCOM Post\Quicktron - InfinitiCOM\obj\Debug\Quicktron - InfinitiCOM.pdb
